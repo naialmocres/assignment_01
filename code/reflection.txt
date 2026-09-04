@@ -1,4 +1,1 @@
-Write your reflection here.
-
-See reflection.md for what makes a good reflection — be specific, use the
-terminology from class, and make it actionable.
+Since I took IST256, all the terminology such as functions, if statements, and iterations all translated over to this assignment and class. For the first few problems, I had an easy time because writting code in python is like talking, just usign specific terminology for certain executions. Such as, when something needs to be more of a number, then you put <= instead of greater than. Nevertheless, the instructions were easy to understand and read.
